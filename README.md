@@ -4,7 +4,7 @@
 ## Tech Stack
 
 - 🛠 Lang & Framework: Java/Kotlin/C++, AndroidFramework
-- ⛏ Interest: Algorithms, Kotlin
+- ⛏ Interest: Algorithms, Kotlin, Unreal Engine, Unity
 
 ## Portfolio
 ![Ivan Somov's github stats](https://github-readme-stats.vercel.app/api?username=mistersomov&show_icons=true&theme=dracula&hide=stars,issues)
