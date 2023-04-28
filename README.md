@@ -1,5 +1,5 @@
 > 👨🏻‍💻 Android Developer
-> <img align='right' src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="230" />
+> <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 ## Tech Stack
 
