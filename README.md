@@ -1,6 +1,6 @@
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG45aXh6NTc2amVrNWw5eGpqY3RuMmg4eHVocG8xMHlzejR6cmd6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ClS5Q0iF9kVAZXI4Hw/giphy.gif" width="30"> Bio
 <img src="https://vbr.nathanchung.dev/badge?page_id=mistersomov&color=00cf00"/>
-<div align="right">
+<div align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 </div>
 <div align="left">
